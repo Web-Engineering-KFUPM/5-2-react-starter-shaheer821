@@ -1,4 +1,4 @@
-import './App.css'
+
 import StudentCard from './components/StudentCard';
 
 function App() {
@@ -11,8 +11,8 @@ function App() {
 
       <main className="dashboard-main">
         <div className="cards-container">
-          <StudentCard name="mark" id="2022" department="CS" />
-          <StudentCard name="doe" id="2023" department="SWE" />
+          <StudentCard name="ahmad" id="2022" department="CS" />
+          <StudentCard name="ali" id="2023" department="SWE" />
         </div>
       </main>
     </div>
